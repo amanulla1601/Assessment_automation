@@ -9,4 +9,3 @@ logout from the website
     Wait Until Element Is Visible    ${logout_button}
     Click Element    ${logout_button}
     Wait Until Page Contains    This is a simple Login page
-#comment
